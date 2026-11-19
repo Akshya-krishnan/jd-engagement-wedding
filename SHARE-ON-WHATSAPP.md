@@ -3,11 +3,11 @@
 ## 1. The link preview (automatic)
 
 When you paste the invitation link in WhatsApp, WhatsApp fetches the site's preview
-tags and shows the couple photo card with the title "Jithin & Dona | Wedding Invitation".
+tags and shows the couple photo card with the title "Jithin & Dona | Engagement & Wedding Invitation".
 
 The tags live at the top of `index.html` and point at:
 
-    https://jd-wedding-invitation.vercel.app/
+    https://jithin-dona-bigday-invitation.upgrow.com/
 
 If the site is hosted at a different address, replace that address in every
 `og:url`, `og:image`, `og:image:secure_url` and `twitter:image` tag, then rebuild
@@ -33,4 +33,4 @@ the names, the date and "Tap the link to open our invitation". To send it:
     ⛪ Sacred Heart Mount Monastery Church, S.H. Mount, Kottayam
 
     Tap to open our invitation 💛
-    https://jd-wedding-invitation.vercel.app/
+    https://jithin-dona-bigday-invitation.upgrow.com/
